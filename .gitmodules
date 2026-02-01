@@ -1,0 +1,3 @@
+[submodule "my-hugo-site/themes/archie"]
+	path = my-hugo-site/themes/archie
+	url = https://github.com/athul/archie.git
