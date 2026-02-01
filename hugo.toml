@@ -1,0 +1,4 @@
+baseURL = 'https://jakeymg.github.io/'
+languageCode = 'en-us'
+title = 'JakeyMG Site'
+theme = 'archie'
