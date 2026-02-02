@@ -4,7 +4,7 @@ title = 'JakeyMG'
 theme = 'hugo-theme-console'
 
 [params]
-  description = 'Updated site description please'
+  description = 'JakeyMG Website and Portfolio'
   animateStyle = 'animate-fade-up' # Animation style for content
 
 [[params.navlinks]]
@@ -16,5 +16,5 @@ theme = 'hugo-theme-console'
   url = '/posts/'
 
 [[params.navlinks]]
-  name = 'Photos'
-  url = '/photos/'
+  name = 'Gallery'
+  url = '/gallery/'

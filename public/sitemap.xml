@@ -39,6 +39,20 @@
     
         
         <url>
+            <loc>http://localhost:1313/gallery/canvaskoalaradialui/</loc>
+            <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/</loc>
+            <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/categories/</loc>
         </url>
         
