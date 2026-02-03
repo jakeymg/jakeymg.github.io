@@ -44,6 +44,7 @@
       display: inline-block;
       width: 24px;
       height: 24px;
+      margin-right: 8px;
       background-image: url('/icon_d.png');
       background-size: contain;
       background-repeat: no-repeat;
@@ -56,6 +57,7 @@
       display: inline-block;
       width: 24px;
       height: 24px;
+      margin-right: 8px;
       background-image: url('/icon.png');
       background-size: contain;
       background-repeat: no-repeat;
