@@ -1,12 +1,16 @@
 +++
-date = '2026-02-01T17:41:39+10:00'
+date = '2025-06-20'
 draft = false
 title = 'Sumaburu'
 +++
+[itch.io/sumaburu](https://jakey-mg.itch.io/sumaburu)
+
 ## Local Multiplayer Sumo Fighting Action!
 
-{{< video src="/videos/sumaburu gameplay video.mp4" autoplay="true" loop="true" muted="true" >}}
+Solo project made from a love of local multiplayer and weird control schemes.
 
-This is **bold** text, and this is *emphasized* text.
+Two sumo fighters duke it out in the ring! Punch left, punch right, push each other out of the ring to emerge victorious.
 
-Visit the [Hugo](https://gohugo.io) website!
+Play against a computer or a friend with local multiplayer on the same keyboard and multi-controller support. I recommend Switch Joycons using BetterJoy.
+
+{{< video src="/videos/sumaburu-gameplay.mp4" autoplay="true" loop="true" muted="true" >}}
