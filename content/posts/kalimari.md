@@ -8,5 +8,6 @@ title = 'Kalimari'
 ## Solo Godot Mobile and Browser Game
 
 Solo project in Godot to learn the engine and publishing to Google Play. Now web version on itch.io after Android API updates hid the original package.
+<!--more-->
 
 {{< video src="/videos/kalimari-gameplay.mp4" autoplay="true" loop="true" muted="true" >}}
