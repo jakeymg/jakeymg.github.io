@@ -2,53 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JakeyMG</title>
-    <link>https://jakeymg.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on JakeyMG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jakeymg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canvas Koala, Radial UI</title>
-      <link>https://jakeymg.github.io/images/canvaskoalaradialui/</link>
+      <link>http://localhost:1313/images/canvaskoalaradialui/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/images/canvaskoalaradialui/</guid>
+      <guid>http://localhost:1313/images/canvaskoalaradialui/</guid>
       <description>&lt;p&gt;Custom radial UI made in Godot for my WIP project Canvas Koala.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://jakeymg.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I’m Jacob (feel free to call me Jakey), a UI/UX Designer with over seven years of full-time experience creating and designing experiences for web apps, mobile apps, and games!&lt;/p&gt;&#xA;&lt;p&gt;This is my website to serve as a portfolio of creative work, both paid and personal.&lt;/p&gt;&#xA;&lt;p&gt;Self-motivated and always learning, I welcome new challenges.&lt;/p&gt;&#xA;&lt;p&gt;At University I studied Journalism and Arts, but when it comes to work, I feel like all the skills I&amp;rsquo;ve used and learnt are self-taught. I learn best by doing, and through doing I&amp;rsquo;ve learnt a lot about what I&amp;rsquo;m interested in and good at.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Untitled Platformer, Dialogue Test</title>
+      <link>http://localhost:1313/images/dialogue-test/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/dialogue-test/</guid>
+      <description>&lt;p&gt;Creating a dialogue manager tool for an untitled platformer game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kodi the Koala, Concept Art</title>
+      <link>http://localhost:1313/images/canvas-koala-concept-kodi/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/canvas-koala-concept-kodi/</guid>
+      <description>&lt;p&gt;Coming up with some intitial concepts for Canvas Koalas titular Koala character.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sumaburu</title>
-      <link>https://jakeymg.github.io/posts/sumaburu/</link>
+      <link>http://localhost:1313/posts/sumaburu/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/posts/sumaburu/</guid>
+      <guid>http://localhost:1313/posts/sumaburu/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/sumaburu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/sumaburu&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;local-multiplayer-sumo-fighting-action&#34;&gt;Local Multiplayer Sumo Fighting Action!&lt;/h2&gt; &lt;p&gt;Solo project made from a love of local multiplayer and weird control schemes.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Over The Garden Wall 3D Sketch</title>
+      <link>http://localhost:1313/images/otgw-3d-sketch/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/otgw-3d-sketch/</guid>
+      <description>&lt;p&gt;Just messing around with Blender rendering and atmosphere to create a sketch for one of my favourite cartoons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mia, Wasteland Delivries, 3D Character</title>
+      <link>http://localhost:1313/images/mech-girl/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/mech-girl/</guid>
+      <description>&lt;p&gt;A rigged 3D character for a friends project I modelled, textured, and rigged. Feel like I captured my original style for her.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dada Jokes</title>
-      <link>https://jakeymg.github.io/posts/dadajokes/</link>
+      <link>http://localhost:1313/posts/dadajokes/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/posts/dadajokes/</guid>
+      <guid>http://localhost:1313/posts/dadajokes/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/dada-jokes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/dadajokes&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;48hr-global-game-jam-2024&#34;&gt;48hr Global Game Jam 2024&lt;/h2&gt; &lt;p&gt;Teammate and I did a rapid ideation process to find a concept we both liked, then split the tasks. I created art assets while my teammate coded. Later integrated UI and assets into Unity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Go Big Mode</title>
-      <link>https://jakeymg.github.io/posts/gogobigmode/</link>
+      <link>http://localhost:1313/posts/gogobigmode/</link>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/posts/gogobigmode/</guid>
+      <guid>http://localhost:1313/posts/gogobigmode/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/go-go-big-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/gogobigmode&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;retro-sci-fi-arcade-shooter&#34;&gt;Retro Sci-Fi Arcade Shooter&lt;/h2&gt; &lt;p&gt;Solo-built third-person arcade shooter for Game Jam — retro sci-fi theme with custom icons for upgrade paths, crafted rapidly under tight deadline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kalimari</title>
-      <link>https://jakeymg.github.io/posts/kalimari/</link>
+      <link>http://localhost:1313/posts/kalimari/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jakeymg.github.io/posts/kalimari/</guid>
+      <guid>http://localhost:1313/posts/kalimari/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/kalimari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/kalamari&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;solo-godot-mobile-and-browser-game&#34;&gt;Solo Godot Mobile and Browser Game&lt;/h2&gt; &lt;p&gt;Solo project in Godot to learn the engine and publishing to Google Play. Now web version on itch.io after Android API updates hid the original package.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boji and Kage, Fan Art</title>
+      <link>http://localhost:1313/images/boji-and-kage/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/boji-and-kage/</guid>
+      <description>&lt;p&gt;Just two cute characters from Ranking of Kings anime / manga.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Professers Bot, Concept Art</title>
+      <link>http://localhost:1313/images/home-prof-bots/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/home-prof-bots/</guid>
+      <description>&lt;p&gt;Explroation sketches for an old game I want to come back to. This is the professers companion bot he uses to reach out to you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DTIYS Character from Instagram</title>
+      <link>http://localhost:1313/images/carmen-dtiys/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/carmen-dtiys/</guid>
+      <description>&lt;p&gt;Drawing a character from an insta artist I like.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farm Girl, Concept Art</title>
+      <link>http://localhost:1313/images/cosy-farm-girl/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/images/cosy-farm-girl/</guid>
+      <description>&lt;p&gt;Concept for a character for my friends game project, a monster breeder / cosy game.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
