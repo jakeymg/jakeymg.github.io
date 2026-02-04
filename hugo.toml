@@ -7,19 +7,23 @@ theme = 'hugo-theme-console'
   description = 'JakeyMG Website and Portfolio'
   animateStyle = 'animate-fade-up' # Animation style for content
 
-[[params.navlinks]]
-  name = 'About'
-  url = "/about/"
+  [[params.navlinks]]
+    name = 'about'
+    url = "/about/"
 
-[[params.navlinks]]
-  name = 'Posts'
-  url = '/posts/'
+  [[params.navlinks]]
+    name = 'posts'
+    url = '/posts/'
 
-[[params.navlinks]]
-  name = 'Gallery'
-  url = '/gallery/'
+  [[params.navlinks]]
+    name = 'images'
+    url = '/images/'
+  
+  [[params.navlinks]]
+    name = 'itch.io'
+    url = 'https://jakey-mg.itch.io/'
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true

@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on JakeyMG</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://jakeymg.github.io/posts/</link>
     <description>Recent content in Posts on JakeyMG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jakeymg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sumaburu</title>
-      <link>http://localhost:1313/posts/sumaburu/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sumaburu/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/sumaburu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/sumaburu&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;local-multiplayer-sumo-fighting-action&#34;&gt;Local Multiplayer Sumo Fighting Action!&lt;/h2&gt; &lt;p&gt;Solo project made from a love of local multiplayer and weird control schemes.&lt;/p&gt;&#xA;&lt;p&gt;Two sumo fighters duke it out in the ring! Punch left, punch right, push each other out of the ring to emerge victorious.&lt;/p&gt;&#xA;&lt;p&gt;Play against a computer or a friend with local multiplayer on the same keyboard and multi-controller support. I recommend Switch Joycons using BetterJoy.&lt;/p&gt;&#xA;&lt;div class=&#34;video-container&#34;&gt;&#xD;&#xA;    &lt;video controls preload=&#34;auto&#34; autoplay loop muted &gt;&#xD;&#xA;        &lt;source src=&#34;http://localhost:1313/videos/sumaburu-gameplay.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;        &lt;p&gt;Your browser does not support the video element.&lt;/p&gt;</description>
+      <link>https://jakeymg.github.io/posts/sumaburu/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jakeymg.github.io/posts/sumaburu/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/sumaburu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/sumaburu&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;local-multiplayer-sumo-fighting-action&#34;&gt;Local Multiplayer Sumo Fighting Action!&lt;/h2&gt; &lt;p&gt;Solo project made from a love of local multiplayer and weird control schemes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dada Jokes</title>
+      <link>https://jakeymg.github.io/posts/dadajokes/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jakeymg.github.io/posts/dadajokes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/dada-jokes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/dadajokes&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;48hr-global-game-jam-2024&#34;&gt;48hr Global Game Jam 2024&lt;/h2&gt; &lt;p&gt;Teammate and I did a rapid ideation process to find a concept we both liked, then split the tasks. I created art assets while my teammate coded. Later integrated UI and assets into Unity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Go Big Mode</title>
-      <link>http://localhost:1313/posts/gogobigmode/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gogobigmode/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/go-go-big-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/gogobigmode&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;retro-sci-fi-arcade-shooter&#34;&gt;Retro Sci-Fi Arcade Shooter&lt;/h2&gt; &lt;p&gt;Solo-built third-person arcade shooter for Game Jam — retro sci-fi theme with custom icons for upgrade paths, crafted rapidly under tight deadline.&lt;/p&gt;&#xA;&lt;p&gt;You are Go Go, a small galaxy bot. The solar system is being invaded by BBB (Big Bad Bots)!!!&lt;/p&gt;&#xA;&lt;p&gt;Go Go Big Mode and save the galaxy!&lt;/p&gt;&#xA;&lt;div class=&#34;video-container&#34;&gt;&#xD;&#xA;    &lt;video controls preload=&#34;auto&#34; autoplay loop muted &gt;&#xD;&#xA;        &lt;source src=&#34;http://localhost:1313/videos/go-go-big-mode-gameplay.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;        &lt;p&gt;Your browser does not support the video element.&lt;/p&gt;&#xD;&#xA;    &lt;/video&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <link>https://jakeymg.github.io/posts/gogobigmode/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jakeymg.github.io/posts/gogobigmode/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/go-go-big-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/gogobigmode&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;retro-sci-fi-arcade-shooter&#34;&gt;Retro Sci-Fi Arcade Shooter&lt;/h2&gt; &lt;p&gt;Solo-built third-person arcade shooter for Game Jam — retro sci-fi theme with custom icons for upgrade paths, crafted rapidly under tight deadline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kalimari</title>
-      <link>http://localhost:1313/posts/kalimari/</link>
+      <link>https://jakeymg.github.io/posts/kalimari/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kalimari/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/kalimari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/kalamari&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;solo-godot-mobile-and-browser-game&#34;&gt;Solo Godot Mobile and Browser Game&lt;/h2&gt; &lt;p&gt;Solo project in Godot to learn the engine and publishing to Google Play. Now web version on itch.io after Android API updates hid the original package.&lt;/p&gt;&#xA;&lt;div class=&#34;video-container&#34;&gt;&#xD;&#xA;    &lt;video controls preload=&#34;auto&#34; autoplay loop muted &gt;&#xD;&#xA;        &lt;source src=&#34;http://localhost:1313/videos/kalimari-gameplay.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;        &lt;p&gt;Your browser does not support the video element.&lt;/p&gt;&#xD;&#xA;    &lt;/video&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <guid>https://jakeymg.github.io/posts/kalimari/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/kalimari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/kalamari&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;solo-godot-mobile-and-browser-game&#34;&gt;Solo Godot Mobile and Browser Game&lt;/h2&gt; &lt;p&gt;Solo project in Godot to learn the engine and publishing to Google Play. Now web version on itch.io after Android API updates hid the original package.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

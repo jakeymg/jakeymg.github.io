@@ -8,6 +8,7 @@ title = 'Sumaburu'
 ## Local Multiplayer Sumo Fighting Action!
 
 Solo project made from a love of local multiplayer and weird control schemes.
+
 <!--more-->
 
 Two sumo fighters duke it out in the ring! Punch left, punch right, push each other out of the ring to emerge victorious.

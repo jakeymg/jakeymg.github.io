@@ -3,8 +3,10 @@ date = "2026-01-01"
 title = "About"
 +++
 
-I’m Jacob (feel free to call me Jakey), a UI/UX Designer with over seven years of full-time experience creating intuitive experiences for web, mobile apps, and games!
+I’m Jacob (feel free to call me Jakey), a UI/UX Designer with over seven years of full-time experience creating and designing experiences for web apps, mobile apps, and games!
 
-Self-motivated and always learning, I welcome new challenges. In my spare time, I work on creative projects – some of which I have shared down below.
+This is my website to serve as a portfolio of creative work, both paid and personal.
 
-I’m excited to transition my UI/UX skills to the games industry, designing engaging experiences and growing in game-specific UI/UX.
+Self-motivated and always learning, I welcome new challenges.
+
+At University I studied Journalism and Arts, but when it comes to work, I feel like all the skills I've used and learnt are self-taught. I learn best by doing, and through doing I've learnt a lot about what I'm interested in and good at.

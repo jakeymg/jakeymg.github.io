@@ -3,7 +3,7 @@
 <h1>About</h1>
 
 <p>
-I'm Jacob (feel free to call me Jakey), a UI/UX Designer with over seven years of full-time experience creating intuitive experiences for web, mobile apps, and games!
+Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating for web apps, mobile apps, and games! <a href="about/">(more)</a>
 </p>
 <br/>
 
@@ -26,7 +26,7 @@ I'm Jacob (feel free to call me Jakey), a UI/UX Designer with over seven years o
 <h1>Latest images</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/gallery" }}
+{{ with .Site.GetPage "/images" }}
     {{ range first 3 (sort .Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
