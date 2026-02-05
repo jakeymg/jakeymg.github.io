@@ -39,10 +39,10 @@
 }
 
 .image-grid img {
-    width: 100%;   /* Ensures the image takes the full width of the container */
-    height: 100%;  /* Ensures the image takes the full height of the container */
-    object-fit: cover; /* Scales and crops the image to fill the container, maintaining aspect ratio */
-    object-position: center; /* Centers the focal point of the crop (default) */
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
 }
 
 @media (prefers-color-scheme: dark) {

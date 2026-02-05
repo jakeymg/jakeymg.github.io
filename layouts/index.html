@@ -11,7 +11,7 @@ Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating fo
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
-    {{ range first 5 (sort .Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 3 (sort .Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
                 <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
@@ -27,7 +27,7 @@ Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating fo
 
 <div class="image-grid">
 {{ with .Site.GetPage "/images" }}
-    {{ range first 6 (sort .Pages "Date" "desc")}}
+    {{ range first 9 (sort .Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}

@@ -1,7 +1,7 @@
 +++
 image = "mech-girl-3d.png"
-date = "2024-03-23"
-title = "Mia, Wasteland Delivries, 3D Character"
+date = "2024-06-06"
+title = "Mia, Wasteland Deliveries, 3D Character"
 type = "gallery"
 +++
 

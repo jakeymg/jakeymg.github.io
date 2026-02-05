@@ -10,3 +10,5 @@ This is my website to serve as a portfolio of creative work, both paid and perso
 Self-motivated and always learning, I welcome new challenges.
 
 At University I studied Journalism and Arts, but when it comes to work, I feel like all the skills I've used and learnt are self-taught. I learn best by doing, and through doing I've learnt a lot about what I'm interested in and good at.
+
+Want to reach out? [hi@jakeymg.com](mailto:hi@jakeymg.com)
