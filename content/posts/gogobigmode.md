@@ -16,3 +16,7 @@ You are Go Go, a small galaxy bot. The solar system is being invaded by BBB (Big
 Go Go Big Mode and save the galaxy!
 
 {{< video src="/videos/go-go-big-mode-gameplay.mp4" autoplay="true" loop="true" muted="true" >}}
+<br>
+These are all the icons I threw together in the time frame.
+
+![Go-Go-Big-Mode-Icons](/img/ggbm-icons.png)

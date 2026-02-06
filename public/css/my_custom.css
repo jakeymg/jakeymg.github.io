@@ -1,3 +1,17 @@
+:root {
+    --global-font-size: 16px;
+    --global-font-color: #555;
+    --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console,
+        Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+        Courier New, monospace, serif;
+    --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono,
+        DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
+        serif;
+    --global-line-height: 1.6em;
+    --page-width: 70em;
+    --display-h1-decoration: 1;
+}
+
 @media (prefers-color-scheme: dark) {
     :root {
 	--background-color: #242120;
@@ -30,6 +44,8 @@
 
 .video-container {
     width: 100%;
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
 }
 
 .video-container video {

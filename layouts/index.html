@@ -7,7 +7,7 @@ Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating fo
 </p>
 <br/>
 
-<h1>Latest posts <a href="posts/">(view all)</a></h1>
+<h1>Latest posts</h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
@@ -22,8 +22,9 @@ Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating fo
     {{ end }}
 {{ end }}
 </div>
+<a href="posts/">(view all posts)</a>
 
-<h1>Latest images <a href="images/">(view all)</a></h1>
+<h1>Latest images</h1>
 
 <div class="image-grid">
 {{ with .Site.GetPage "/images" }}
@@ -38,5 +39,6 @@ Hey, I'm Jacob. A UI/UX Designer with over seven years of experience creating fo
     {{ end }}
 {{ end }}
 </div>
+<a href="images/">(view all images)</a>
 
 {{ end }}
