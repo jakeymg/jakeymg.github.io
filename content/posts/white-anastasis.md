@@ -17,9 +17,9 @@ I setup skeletons, rigs, and behaviour animations from 3D models for Unity integ
 <br>
 This is a gallery of gifs for some of the creatures I worked on and was particularly proud of.
 
-{{< gallery >}}
+{{< imggallery >}}
 <img src="/img/white-creature-1.gif">
 <img src="/img/white-creature-2.gif">
 <img src="/img/white-creature-3.gif">
 <img src="/img/white-creature-4.gif">
-{{< /gallery >}}
+{{< /imggallery >}}
