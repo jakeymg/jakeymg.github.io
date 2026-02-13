@@ -204,5 +204,12 @@
       <guid>http://localhost:1313/posts/pay-advantage/</guid>
       <description>&lt;h2 id=&#34;lead-uxui-designer-from-2018-2020&#34;&gt;Lead UX/UI Designer from 2018-2020&lt;/h2&gt; &lt;p&gt;Drove data-driven redesign of payment features for Australian SMEs at Pay Advantage—end-to-end from research, prototyping/testing, dev handoff, to post-launch user follow-up.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Home (WIP)</title>
+      <link>http://localhost:1313/posts/home-frog-game/</link>
+      <pubDate>Wed, 13 Feb 2019 17:38:41 +1000</pubDate>
+      <guid>http://localhost:1313/posts/home-frog-game/</guid>
+      <description>&lt;h2 id=&#34;turn-based-rpg-based-on-collecting-and-using-monster-abilites&#34;&gt;Turn Based RPG based on collecting and using Monster Abilites&lt;/h2&gt; &lt;p&gt;An ambitious project I want to come back to at some point. I got a pretty fun paper prototype set-up that works as a single player boardgame.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
