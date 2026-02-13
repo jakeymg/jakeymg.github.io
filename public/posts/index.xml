@@ -6,8 +6,15 @@
     <description>Recent content in Posts on JakeyMG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 11:06:48 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kynd</title>
+      <link>http://localhost:1313/posts/kynd/</link>
+      <pubDate>Fri, 13 Feb 2026 11:06:48 +1000</pubDate>
+      <guid>http://localhost:1313/posts/kynd/</guid>
+      <description>&lt;h2 id=&#34;lead-uxui-designer-from-2020-2026&#34;&gt;Lead UX/UI Designer from 2020-2026&lt;/h2&gt; &lt;p&gt;Led end-to-end UX/UI design for desktop/mobile app at Kynd, evolving from startup to acquisition. Mapped user journeys, crafted mockups, and collaborated with product, founder, marketing, and tech teams to define app look, feel, and behaviour.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sumaburu</title>
       <link>http://localhost:1313/posts/sumaburu/</link>
@@ -42,6 +49,13 @@
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kalimari/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jakey-mg.itch.io/kalimari&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io/kalamari&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;solo-godot-mobile-and-browser-game&#34;&gt;Solo Godot Mobile and Browser Game&lt;/h2&gt; &lt;p&gt;Solo project in Godot to learn the engine and publishing to Google Play. Now web version on itch.io after Android API updates hid the original package.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pay Advantage</title>
+      <link>http://localhost:1313/posts/pay-advantage/</link>
+      <pubDate>Thu, 13 Feb 2020 10:40:08 +1000</pubDate>
+      <guid>http://localhost:1313/posts/pay-advantage/</guid>
+      <description>&lt;h2 id=&#34;lead-uxui-designer-from-2018-2020&#34;&gt;Lead UX/UI Designer from 2018-2020&lt;/h2&gt; &lt;p&gt;Drove data-driven redesign of payment features for Australian SMEs at Pay Advantage—end-to-end from research, prototyping/testing, dev handoff, to post-launch user follow-up.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

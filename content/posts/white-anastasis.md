@@ -15,11 +15,14 @@ I setup skeletons, rigs, and behaviour animations from 3D models for Unity integ
 
 {{< youtube id="X6eNbgogEfg" autoplay="true" loop="true" muted="true" >}}
 <br>
-This is a gallery of gifs for some of the creatures I worked on and was particularly proud of.
+
+# Creature Gallery
+
+This is a gallery for some of the creatures I worked on and was particularly proud of.
 
 {{< imggallery >}}
-<img src="/img/white-creature-1.gif">
 <img src="/img/white-creature-2.gif">
 <img src="/img/white-creature-3.gif">
 <img src="/img/white-creature-4.gif">
+<img src="/img/white-creature-1.gif">
 {{< /imggallery >}}
