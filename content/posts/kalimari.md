@@ -14,3 +14,12 @@ Solo project in Godot to learn the engine and publishing to Google Play. Now web
 Hand drawing all the art and animation was a lot of work, but also very rewarding, and I'm super happy with how it looks.
 
 {{< video src="/videos/kalimari-gameplay.mp4" autoplay="true" loop="true" muted="true" >}}
+
+# Gallery
+
+{{< imggallery grid="5">}}
+<img src="/img/kalimari/kali-col-1.png">
+<img src="/img/kalimari/kali-col-2.png">
+<img src="/img/kalimari/kali-col-3.png">
+<img src="/img/kalimari/kali-col-4.png">
+{{< /imggallery >}}
